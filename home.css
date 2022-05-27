@@ -1,0 +1,21 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ .navbar{
+     display: flex;
+     align-items: ;
+     padding: 2px;
+ }
+ nav{
+     flex: 1;
+     text-align: right;
+      padding: right;
+ }
+ ul{
+     float: right;
+     list-style-type: none;
+     margin-right: 2px;
+ }
